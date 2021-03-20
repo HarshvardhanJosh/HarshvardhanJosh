@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! I'm Harsh👋 </h1>
-<h3 align="center">🚀 passionate frontend  <img src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" alt="html5" width="25" height="25"/> <img src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png" alt="css3" width="25" height="25"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap4" width="25" height="25"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="js" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> web developer | Undergrad Student.🚀</h3>
+<h3 align="center">🚀 Passionate frontend  <img src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" alt="html5" width="25" height="25"/> <img src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png" alt="css3" width="25" height="25"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap4" width="25" height="25"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="js" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> web developer | Undergrad Student.🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="./img/readimg.png"/>
+<img width = "35%" align="right" alt="img" height="300px" src="./img/readimg.png"/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Electronics and Communication Engineering from Bharati Vidyapeeth's College of Engineering New Delhi.
-- 💼 &nbsp; I’m currently working on project in React with Databases (MongoDB).
+- 💼 &nbsp; I’m currently working on a project in React with Databases (MongoDB) and IoT using Arduino and Pspice simulations.
 - ✍️ &nbsp; As a developer, I am always ready to learn to grow professionally in this field.
 </div> 
 </div>
