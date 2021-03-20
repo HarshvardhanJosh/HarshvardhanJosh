@@ -22,8 +22,8 @@
 
 ## Follow Me
 
-[![Gmail Badge](https://img.shields.io/badge/-harshitjoshi001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshitjoshi001@gmail.com)](mailto:harshitjoshi001@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-HarshvardhanJoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshvardhan-joshi-4b7396183/)](https://www.linkedin.com/in/harshvardhan-joshi-4b7396183/)
+[![Gmail Badge](https://img.shields.io/badge/-harshitjoshi001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshitjoshi001@gmail.com)](mailto:harshitjoshi001@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/HarshvardhanJosh)](https://github.com/HarshvardhanJosh)
 
 <hr>
