@@ -5,7 +5,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Electronics and Communication Engineering from Bharati Vidyapeeth's College of Engineering New Delhi.
+- 🎓 &nbsp;I'm a Sophomore Studying ECE at @BVP New Delhi.
 - 💼 &nbsp; I’m currently working on a Full stack MERN app with React Hooks, Context API and JWT authentication.
 - ✍️ &nbsp; As a developer, I am always ready to learn to grow professionally in this field.
 </div> 
